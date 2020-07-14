@@ -222,6 +222,9 @@ The algorithm for Q-learning:
         exploration_rate = min_exploration_rate + (max_exploration_rate + min_exploration_rate) * np.exp(-exploration_decay_rate*episode)
         rewards_all_episodes.append(rewards_current_episode)
  ```
+ ## Results
+ ![demo](https://github.com/BnZel/experiment-deep-reinforcement-learning/blob/master/demo-gifs/demo.gif)
+ Perhaps tuning the hyperparameters or training more would successive have the agent reach the reward, as it mostly hits the enemy
  
  ## Conclusion
  My learning experience for Q-Learning has sparked some curiosity on some practical applications. 
