@@ -1,7 +1,9 @@
 # Experimenting with Reinforcement Learning and Deep Q Learning
 This was a way for me to understand the mechanics of RL and DQL, using OpenAI's custom gym environment.
 
-This is still a **Work In Progress**.
+~~This is still a **Work In Progress**.~~ 
+
+Project route switched to [learning-neural-networks-from-scratch](https://github.com/BnZel/learning-neural-networks-from-scratch)
 
 ## Intro
 While learning the fundamentals of Q Learning, I referred to [DeepLizard's Tutorial](https://deeplizard.com/learn/video/nyjbcRQ-uQ8)
